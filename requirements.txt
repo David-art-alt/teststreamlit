@@ -23,7 +23,6 @@ jedi==0.18.2
 Jinja2==3.1.2
 jsonschema==4.17.3
 kiwisolver==1.4.4
-macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/macholib-1.15.2-py2.py3-none-any.whl
 markdown-it-py==2.2.0
 MarkupSafe==2.1.2
 matplotlib==3.6.3
@@ -60,7 +59,6 @@ pytz-deprecation-shim==0.1.0.post0
 requests==2.28.2
 rich==13.3.4
 shiboken6==6.4.2
-six @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/six-1.15.0-py2.py3-none-any.whl
 smmap==5.0.0
 stack-data==0.6.2
 streamlit==1.21.0
